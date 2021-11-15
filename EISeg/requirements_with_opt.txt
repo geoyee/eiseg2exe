@@ -1,0 +1,104 @@
+# Here is the list of packages automatically derived by QPT
+# you can ignore the dependent packages in the main package and only care about the main package
+# For example, you need to install paddlepaddle and pillow, because paddlepaddle relies on pillow, so you only need to install paddlepaddle.
+# ---------------------------------------------------------------------
+# QPT Home:        https://github.com/GT-ZhangAcer/QPT
+# ---------------------------------------------------------------------
+# 
+# -------------Mainly depends on package analysis results--------------
+
+# gdal==3.2.3
+pycocotools==2.0.2
+beautifulsoup4==4.9.3
+easydict==1.9
+albumentations==0.5.2
+qtpy==1.9.0
+simpleitk==2.0.2
+paddlepaddle==2.1.2
+visualdl==2.2.0
+pyqt5==5.15.4
+paddleseg==2.3.0
+imgaug==0.4.0
+qpt==1.0b1.dev11
+
+# ----------------------Ignored dependent packages---------------------
+#colorama==0.4.4
+#install==1.3.4
+#lxml==4.6.3
+#numba==0.54.0
+#opencv-contrib-python==4.5.2.54
+#paddlepaddle==2.2.0
+#pyqt5-tools==5.15.4.3.2
+#pyside2==5.15.2
+#qpt==1.0b1.dev11
+#skan==0.9
+
+# ----------------------Ignored sub dependent packages---------------------
+
+# -----Dependencies of pycocotools
+#cython>=0.27.3
+#matplotlib>=2.1.0
+#setuptools>=18.0
+
+# -----Dependencies of beautifulsoup4
+#soupsieve>1.2
+
+# -----Dependencies of albumentations
+#pyyaml
+#numpy>=1.11.1
+#scikit-image>=0.16.1
+#scipy
+#imgaug>=0.4.0
+#opencv-python-headless>=4.1.1
+
+# -----Dependencies of paddlepaddle-gpu
+#gast==0.3.3
+#numpy<=1.19.3,>=1.13
+#requests>=2.20.0
+#pillow
+#six
+#protobuf>=3.1.0
+#astor
+#decorator
+
+# -----Dependencies of visualdl
+#pillow>=7.0.0
+#requests
+#flask>=1.1.1
+#shellcheck-py
+#pandas
+#flake8>=3.7.9
+#flask-babel>=1.0.0
+#pre-commit
+#bce-python-sdk
+#matplotlib
+#protobuf>=3.11.0
+#numpy
+#six>=1.14.0
+
+# -----Dependencies of pyqt5
+#pyqt5-qt5>=5.15
+#pyqt5-sip<13,>=12.8
+
+# -----Dependencies of paddleseg
+#tqdm
+#pyyaml>=5.1
+#flake8
+#visualdl>=2.0.0
+#prettytable
+#yapf==0.26.0
+#pre-commit
+#scipy
+#opencv-python
+#filelock
+
+# -----Dependencies of imgaug
+#scikit-image>=0.14.2
+#numpy>=1.15
+#scipy
+#opencv-python
+#matplotlib
+#pillow
+#shapely
+#six
+#imageio
