@@ -14,7 +14,7 @@ easydict==1.9
 albumentations==0.5.2
 qtpy==1.9.0
 simpleitk==2.0.2
-paddlepaddle==2.1.2
+paddlepaddle==2.4.0
 visualdl==2.2.0
 pyqt5==5.15.4
 paddleseg==2.3.0
